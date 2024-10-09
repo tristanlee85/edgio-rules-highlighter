@@ -17,7 +17,7 @@ The **edgio-rules-highlighter** is a Tampermonkey script designed to visually id
 
    - Click on the Tampermonkey icon in your browser toolbar.
    - Select "Create a new script".
-   - Copy and paste the script code into the editor.
+   - Copy and paste the [script code](script.js) into the editor.
    - Save the script.
 
 3. **Usage**:
